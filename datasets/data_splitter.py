@@ -13,5 +13,5 @@ def move_data(wbg_pth,img_pth,dst_pth):
 
 wbg_pth='/datadrive/Reflection/training_data/wbg'
 img_pth='/datadrive/Reflection/training_data/images'
-dst_pth='/datadrive/Reflection/training_data/testB'
+dst_pth='/datadrive/Reflection/training_data/valB'
 move_data(wbg_pth,img_pth,dst_pth)
